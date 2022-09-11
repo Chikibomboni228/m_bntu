@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="registration_enter">ВОЙТИ</string>
+    <string name="registration_cannot_enter">КАК ВОЙТИ?</string>
+    <string name="registration_log_in">ВОЙТИ В СИСТЕМУ</string>
+    <string name="registration_student_number">Номер студенческого</string>
+    <string name="registration_student_personal_number">Номер студента</string>
+    <string name="registration_cannot_enter_dialog_text">Черные цифры - логин\nКрасные - пароль</string>
+</resources>
